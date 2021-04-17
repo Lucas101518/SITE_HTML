@@ -1,8 +1,14 @@
-* h2{
+* 
+#titulo{
      
         color: brown;
         text-align: center;
-    
-    
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+}
+
+.chamado {
+    color: brown;
+
 }
 
