@@ -8,17 +8,22 @@
 }
 
 .chamado {
-    color: brown;
+    color: tomato;
     font-size: 300%;
 
 }
 
 .incrição {
+    color: tomato;
     text-align: right;
     font-size: 300%;
+    
+    
 }
 
 .história {
     text-align: center;
+    border: 2px solid violet;
+    font-size: 200%;
 }
 
