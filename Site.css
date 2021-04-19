@@ -9,10 +9,16 @@
 
 .chamado {
     color: brown;
+    font-size: 300%;
 
 }
 
 .incrição {
     text-align: right;
+    font-size: 300%;
+}
+
+.história {
+    text-align: center;
 }
 
