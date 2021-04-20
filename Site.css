@@ -10,6 +10,9 @@
 .chamado {
     color: tomato;
     font-size: 300%;
+    background-image: url("uniao.jpg");
+    background-repeat: no-repeat;
+    margin-right: 500px;
 
 }
 
