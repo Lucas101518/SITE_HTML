@@ -71,14 +71,9 @@ li a:hover:not(.active) {
     text-decoration: none;
     display: inline-block;
     font-size: 40px;
-    margin: 2px 2px;
+    margin: 2px 2px 300px;
     cursor: pointer;
     border-radius: 8px;
-    margin-top: 150px;
-    margin-bottom: 150px;
-    margin-right: 130px;
-    margin-left: 1000px;
-    
     
 }
 
