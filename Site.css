@@ -13,10 +13,8 @@
     border: 2px solid rgb(15, 150, 132);
     font-size: 200%;
     width: 1000px;
-    margin: auto;
-    
-    
-    
+    margin: 550px;
+
 }
 
 
@@ -53,10 +51,7 @@ li a:hover:not(.active) {
     background: url(uniao.jpg) no-repeat left;
     background-size: cover;
     height: 50%;
-    position: fixed;
-    
-
-    
+    position: relative;
     
 }
 
@@ -78,6 +73,7 @@ li a:hover:not(.active) {
     font-size: 40px;
     margin: 2px 2px;
     cursor: pointer;
+    border-radius: 8px;
     
     
 }
