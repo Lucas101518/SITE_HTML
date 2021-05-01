@@ -71,11 +71,13 @@ li a:hover:not(.active) {
     background-color: cornflowerblue;
     border: none;
     color: white;
-    padding: 30px 132px;
+    padding: 23px 85px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 40px;
+    margin: 2px 2px;
+    cursor: pointer;
     
     
 }
