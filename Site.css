@@ -7,27 +7,6 @@
         font-size: 20px;
 }
 
-        
-
-.inscrição {
-    color: aliceblue;
-    text-align: right;
-    font-size: 300%;
-    border-style: solid ;
-    border-color: teal;
-    border-radius: 5px;
-    margin-top: 100px;
-    margin-bottom: 150px;
-    margin-right: 120px;
-    margin-left: 1250px;
-    background-color: midnightblue;
-
-    
-    
-    
-    
-}
-
 
 .história {
     text-align: center;
@@ -35,6 +14,7 @@
     font-size: 200%;
     width: 1000px;
     margin: auto;
+    
     
     
 }
@@ -74,6 +54,10 @@ li a:hover:not(.active) {
     background-size: cover;
     height: 50%;
     position: fixed;
+    
+
+    
+    
 }
 
 .hero-text {
@@ -81,6 +65,19 @@ li a:hover:not(.active) {
     color: white;
     font-size: 150%;
     margin-left: 30px;
+}
+
+.button {
+    background-color: cornflowerblue;
+    border: none;
+    color: white;
+    padding: 30px 132px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    
+    
 }
 
 
